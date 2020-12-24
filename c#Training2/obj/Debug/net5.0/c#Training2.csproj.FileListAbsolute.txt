@@ -1,0 +1,16 @@
+C:\Users\Mac\Desktop\C#\c#Training2\bin\Debug\net5.0\c#Training2.exe
+C:\Users\Mac\Desktop\C#\c#Training2\bin\Debug\net5.0\c#Training2.deps.json
+C:\Users\Mac\Desktop\C#\c#Training2\bin\Debug\net5.0\c#Training2.runtimeconfig.json
+C:\Users\Mac\Desktop\C#\c#Training2\bin\Debug\net5.0\c#Training2.runtimeconfig.dev.json
+C:\Users\Mac\Desktop\C#\c#Training2\bin\Debug\net5.0\c#Training2.dll
+C:\Users\Mac\Desktop\C#\c#Training2\bin\Debug\net5.0\ref\c#Training2.dll
+C:\Users\Mac\Desktop\C#\c#Training2\bin\Debug\net5.0\c#Training2.pdb
+C:\Users\Mac\Desktop\C#\c#Training2\obj\Debug\net5.0\c#Training2.csprojAssemblyReference.cache
+C:\Users\Mac\Desktop\C#\c#Training2\obj\Debug\net5.0\c#Training2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mac\Desktop\C#\c#Training2\obj\Debug\net5.0\c#Training2.AssemblyInfoInputs.cache
+C:\Users\Mac\Desktop\C#\c#Training2\obj\Debug\net5.0\c#Training2.AssemblyInfo.cs
+C:\Users\Mac\Desktop\C#\c#Training2\obj\Debug\net5.0\c#Training2.csproj.CoreCompileInputs.cache
+C:\Users\Mac\Desktop\C#\c#Training2\obj\Debug\net5.0\c#Training2.dll
+C:\Users\Mac\Desktop\C#\c#Training2\obj\Debug\net5.0\ref\c#Training2.dll
+C:\Users\Mac\Desktop\C#\c#Training2\obj\Debug\net5.0\c#Training2.pdb
+C:\Users\Mac\Desktop\C#\c#Training2\obj\Debug\net5.0\c#Training2.genruntimeconfig.cache
